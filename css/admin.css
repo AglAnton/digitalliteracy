@@ -1,0 +1,9 @@
+body {
+  background-color: #fff!important;
+}
+.icon-edit {
+  font-size: 1.2em;
+}
+.form-check-label {
+  cursor: pointer;
+}
